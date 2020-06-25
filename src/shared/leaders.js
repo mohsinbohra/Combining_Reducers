@@ -28,11 +28,11 @@ export const LEADERS = [
     },
     {
       id: 3,
-      name: 'Alberto Somayya',
-      image: '/assets/images/alberto.png',
-      designation: 'Executive Chef',
-      abbr: 'EC',
+      name: 'Mohsin Bohra',
+      image: '/assets/images/mbohra.jpg',
+      designation: 'Front End Developer',
+      abbr: 'Sr',
       featured: true,
-      description: 'Award winning three-star Michelin chef with wide International experience having worked closely with whos-who in the culinary world, he specializes in creating mouthwatering Indo-Italian fusion experiences. He says, Put together the cuisines from the two craziest cultures, and you get a winning hit! Amma Mia!'
+      description: 'Award winning worked closely with whos-who in the culinary world, he specializes in creating mouthwatering Indo-Italian fusion experiences. He says, Put together the cuisines from the two craziest cultures, and you get a winning hit! Amma Mia!'
     }
   ];
